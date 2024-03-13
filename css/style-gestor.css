@@ -1,0 +1,31 @@
+.margin-gestor{
+    margin: 15px;
+}
+.Contenedor-Tecnologias{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    
+    
+}
+.mantener-iconos{
+    width: 150px;
+    filter: drop-shadow(5px 5px 0px gray);
+}
+.titulos-gestor{
+    background-color: blueviolet;
+    padding: 10px 0px;
+}
+
+.centrar{
+    margin: auto;
+}
+.magin-10{
+    margin: 10px;
+}
+.Contenedor-Gestor{
+    background-image: linear-gradient(to bottom, rgb(31, 36, 183), #6e17e3);
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
